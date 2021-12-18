@@ -2,7 +2,7 @@
 
 "Unread" and "Favorites" iOS widgets for [Pocket](https://getpocket.com).
 
-_image_
+<p align="center"><img src="https://github.com/brianseidman/scriptable-pocket-widget/blob/72495ad9cc488b9790bb2ee6eac8dcedcf36dd96/Resources/scriptable-pocket-widget-image.png" width=400 alt="Scriptable Pocket Widget Screenshot"></p>
 
 Pocket is Mozilla's popular read-it-later service. Unfortunately, on iOS Pocket only offers a "Discover" widget showing you trending articles; there aren't widgets to show your own favorite (starred) or unread articles. These scripts, deployed through the Scriptable app, bring those missing widgets to your device.
 
