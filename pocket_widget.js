@@ -10,6 +10,7 @@ let attributes = {
 
 let pocket_widget = importModule("/pocket_widget/pocket_widget_code.js"),	
 	w = new ListWidget();
+	w.url = 'pocket://'
 
 pocket_widget.titleLine(w, attributes.favorite)
 
