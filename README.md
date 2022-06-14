@@ -1,4 +1,4 @@
-# Pocket Widgets (Unofficial)
+# Pocket Widgets (Unofficial) [![Mentioned in Awesome Scriptable](https://awesome.re/mentioned-badge.svg)](https://github.com/dersvenhesse/awesome-scriptable#readme)
 
 "Unread" and "Favorites" iOS widgets for [Pocket](https://getpocket.com).
 
